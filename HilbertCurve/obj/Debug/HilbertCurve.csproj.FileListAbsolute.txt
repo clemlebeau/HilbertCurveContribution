@@ -1,0 +1,12 @@
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\bin\Debug\HilbertCurve.exe.config
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\bin\Debug\HilbertCurve.exe
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\bin\Debug\HilbertCurve.pdb
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.csprojAssemblyReference.cache
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.MainForm.resources
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.Properties.Resources.resources
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.csproj.GenerateResource.cache
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.exe
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.pdb
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\bin\Debug\ColorMine.dll
+C:\Users\home\source\repos\HilbertCurve\HilbertCurve\obj\Debug\HilbertCurve.csproj.CopyComplete
